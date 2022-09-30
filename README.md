@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeoHerms
-- 👀 I’m interested in idk
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in embedded systems, AI, and more
+- 🌱 I’m currently learning C++, Python, Verilog, VHDL
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me Discord: BoNeleSS_Leo#2333
 
