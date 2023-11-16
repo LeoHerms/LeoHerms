@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m **@LeoHerms**
 - 👀 I’m interested in embedded systems, machine learning and more.
-- 🌱 I’m currently learning C/C++, Java, JavaScript, Python, Verilog, VHDL.
+- 🌱 My strongest programming language would be C++. I also know C, Java, and Python.  
+  I would like to try out web development, so I am in the process of learning JavaScript, HTML, and CSS
 - 💞️ I’m looking to collaborate on some projects!
 
 <!---
