@@ -1,6 +1,6 @@
 ![hello there](https://github.com/LeoHerms/LeoHerms/assets/114712210/19e0e7cb-22be-468f-b099-abbfe134ea9b)
 
-- 👋 Hi, I’m **@LeoHerms**
+- 👋 Hello there
   
 <!---
 LeoHerms/LeoHerms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
