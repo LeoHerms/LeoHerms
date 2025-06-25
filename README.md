@@ -8,7 +8,7 @@
 
 Recent **Computer Engineering graduate** from UC Irvine with a passion for bridging the gap between hardware and software. I thrive at the intersection of **low-level programming** and **system design**, with hands-on experience in embedded systems, drone technology, and full-stack development.
 
-- 🎓 **UC Irvine Computer Engineering Graduate** (2024)
+- 🎓 **UC Irvine Computer Engineering Graduate** (2025)
 - 💻 **Embedded Systems Developer** specializing in microcontroller programming
 - 🚁 **FPV Drone Enthusiast** - Building and flying custom racing drones
 - 🛠️ **Hardware Hacker** - PCB design, 3D printing, and prototyping
