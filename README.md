@@ -75,7 +75,3 @@ Recent **Computer Engineering graduate** from UC Irvine with a passion for bridg
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=LeoHerms&color=00ff88&style=for-the-badge" alt="Profile Views" />
 </div>
-
-<div align="center">
-  <i>🚀 "Building the future where hardware meets software, one commit at a time." 🚀</i>
-</div>
