@@ -59,38 +59,6 @@ Recent **Computer Engineering graduate** from UC Irvine with a passion for bridg
   <img src="https://leetcard.jacoblin.cool/leoncioh?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
-- 📈 **150+ Problems Solved** across multiple difficulty levels
-- 🎯 **Daily Practice** routine focusing on algorithms and data structures
-- 💡 **Favorite Topics**: Trees, Graphs, and learning to love Dynamic Programming
-- 🏅 **Current Rating**: 1200+ and climbing
-
-## 🛠️ Featured Projects
-
-### 🚁 Custom FPV Racing Drone
-**Technologies**: Betaflight, PID Tuning, ESC Programming, DJI FPV
-- Built high-performance racing drone with 4S power system and F7 flight controller
-- Custom PID tuning for optimal flight characteristics and responsiveness
-- Integrated DJI digital FPV system for crystal-clear video transmission
-
-### ⚡ IoT Weather Monitoring System
-**Technologies**: ESP32, C++, MQTT, React, Node.js
-- Real-time environmental data collection with web dashboard
-- Low-power design with solar charging capability
-- Mobile notifications and historical data analysis
-
-### 🧠 Neural Network From Scratch
-**Technologies**: C++, Linear Algebra, MNIST Dataset
-- Implemented multi-layer perceptron without external ML libraries
-- Custom backpropagation algorithm with multiple activation functions
-- Achieved competitive accuracy on MNIST handwritten digit recognition
-
-## 🎯 What I'm Working On
-
-- 🔬 **Advanced RTOS Development** - Exploring real-time operating systems for embedded applications
-- 🤖 **Autonomous Drone Navigation** - Computer vision and control systems integration
-- 📚 **Algorithm Mastery** - Daily LeetCode practice focusing on system design
-- 🔧 **Open Source Contributions** - Contributing to embedded systems and drone firmware projects
-
 ## 🌐 Connect With Me
 
 <div align="center">
